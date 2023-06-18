@@ -1,3 +1,3 @@
-### QRCodeScannerandGenerator
+### qrcode scanner and generator
 ```
-Build this app using Unity
+Build this app using Unity.
